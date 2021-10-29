@@ -1,0 +1,16 @@
+body {
+    background-color:darkgrey;
+    color:black;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 100%;
+    font-family: sans-serif;
+}
+
+li {
+color: aqua;
+font-size: 15px;
+background-color:black;
+width: 50%;
+}
